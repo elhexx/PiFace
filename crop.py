@@ -1,7 +1,7 @@
 """crop face from image """
-import numpy as np
+
 import cv2
-import time
+
 
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
