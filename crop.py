@@ -1,0 +1,1 @@
+"""crop face from image """
